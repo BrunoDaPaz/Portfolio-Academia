@@ -109,6 +109,16 @@ nav a {
         background-repeat: no-repeat;
         background-position: center;
     }
+    .banner-informativo {
+        float: right;
+        width: 50%;
+    }
+    .texto-informativo,
+    .conteudo-carrossel {
+        float: right;
+        width: 50%;
+        margin-top: 20%;
+    }
 }
 
 .container {
